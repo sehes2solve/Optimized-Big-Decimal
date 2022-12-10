@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1551123427 source:e:\computer science\college\year 2\datastructures\bigint decimal class\bigint decimal interface project\main.cpp
+	<iostream>
+	<map>
+	"big_int_decimal.h"
+
+1551122051 source:e:\computer science\college\year 2\datastructures\bigint decimal class\bigint decimal interface project\src\big_int_decimal.cpp
+	"big_int_decimal.h"
+
+1551122051 e:\computer science\college\year 2\datastructures\bigint decimal class\bigint decimal interface project\include\big_int_decimal.h
+	<iostream>
+	<fstream>
+	<string>
+
+1551123685 source:e:\computer science\college\year 2\term 2\datastructures\assignments\bigint decimal class\bigint decimal interface project\main.cpp
+	<iostream>
+	<map>
+	"big_int_decimal.h"
+
+1551122051 e:\computer science\college\year 2\term 2\datastructures\assignments\bigint decimal class\bigint decimal interface project\include\big_int_decimal.h
+	<iostream>
+	<fstream>
+	<string>
+
+1551896292 source:c:\users\ehab\desktop\bigint decimal class\bigint decimal interface project\main.cpp
+	<iostream>
+	<map>
+	"big_int_decimal.h"
+
+1551122051 c:\users\ehab\desktop\bigint decimal class\bigint decimal interface project\include\big_int_decimal.h
+	<iostream>
+	<fstream>
+	<string>
+
+1551124105 source:c:\users\ehab\desktop\bigint decimal class\bigint decimal interface project\src\big_int_decimal.cpp
+	"big_int_decimal.h"
+
+1551912106 source:e:\computer science\college\year 2\term 2\datastructures\assignments\1\bigint decimal class v2\bigint decimal interface project\main.cpp
+	<iostream>
+	<map>
+	"big_int_decimal.h"
+
+1551122051 e:\computer science\college\year 2\term 2\datastructures\assignments\1\bigint decimal class v2\bigint decimal interface project\include\big_int_decimal.h
+	<iostream>
+	<fstream>
+	<string>
+
+1551124105 source:e:\computer science\college\year 2\term 2\datastructures\assignments\1\bigint decimal class v2\bigint decimal interface project\src\big_int_decimal.cpp
+	"big_int_decimal.h"
+
